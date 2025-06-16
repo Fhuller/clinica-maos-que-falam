@@ -74,6 +74,10 @@ header nav {
     color: rgba(0, 152, 206, 1);
 }
 
+. introduction p {
+    color: black;
+}
+
 .explanation {
     background-color: #f2f2f2;
 }
